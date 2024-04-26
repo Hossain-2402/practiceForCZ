@@ -1,0 +1,250 @@
+
+  db.collection('products').add(
+    {
+      name : "Bag2",
+      id : 2,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+
+  db.collection('products').add(
+    {
+      name : "Bag3",
+      id : 3,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag4",
+      id : 4,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag5",
+      id : 5,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag6",
+      id : 6,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag7",
+      id : 7,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag8",
+      id : 8,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag9",
+      id : 9,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag10",
+      id : 10,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag11",
+      id : 11,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag12",
+      id : 12,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag13",
+      id : 13,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag14",
+      id : 14,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag15",
+      id : 15,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag16",
+      id : 16,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag17",
+      id : 17,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag18",
+      id : 18,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag19",
+      id : 19,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag20",
+      id : 20,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag21",
+      id : 21,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag22",
+      id : 22,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag23",
+      id : 23,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+  db.collection('products').add(
+    {
+      name : "Bag24",
+      id : 24,
+      timestamp : firebase.firestore.FieldValue.serverTimestamp()
+    })
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const [products,setProducts] = useState([
+//     {
+//       name : "Bag1",
+//       id : 1
+//     },
+//     {
+//       name : "Bag2",
+//       id : 2
+//     },
+//     {
+//       name : "Bag3",
+//       id : 3
+//     },
+//     {
+//       name : "Bag4",
+//       id : 4
+//     },
+//     {
+//       name : "Bag5",
+//       id : 5
+//     },
+//     {
+//       name : "Bag6",
+//       id : 6
+//     },
+//     {
+//       name : "Bag7",
+//       id : 7
+//     },
+//     {
+//       name : "Bag8",
+//       id : 8
+//     },
+//     {
+//       name : "Bag9",
+//       id : 9
+//     },
+//     {
+//       name : "Bag10",
+//       id : 10
+//     },
+//     {
+//       name : "Bag11",
+//       id : 11
+//     },
+//     {
+//       name : "Bag12",
+//       id : 12
+//     },
+//     {
+//       name : "Bag13",
+//       id : 13
+//     },
+//     {
+//       name : "Bag14",
+//       id : 14
+//     },
+//     {
+//       name : "Bag15",
+//       id : 15
+//     },
+//     {
+//       name : "Bag16",
+//       id : 16
+//     },
+//     {
+//       name : "Bag13",
+//       id : 17
+//     },
+//     {
+//       name : "Bag14",
+//       id : 18
+//     },
+//     {
+//       name : "Bag15",
+//       id : 19
+//     },
+//     {
+//       name : "Bag16",
+//       id : 20
+//     },
+//     {
+//       name : "Bag13",
+//       id : 21
+//     },
+//     {
+//       name : "Bag14",
+//       id : 22
+//     },
+//     {
+//       name : "Bag15",
+//       id : 23
+//     },
+//     {
+//       name : "Bag16",
+//       id : 24
+//     }]);s
